@@ -1,0 +1,14 @@
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\bin\Debug\net7.0\MiniProject1.exe
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\bin\Debug\net7.0\MiniProject1.deps.json
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\bin\Debug\net7.0\MiniProject1.runtimeconfig.json
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\bin\Debug\net7.0\MiniProject1.dll
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\bin\Debug\net7.0\MiniProject1.pdb
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\obj\Debug\net7.0\MiniProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\obj\Debug\net7.0\MiniProject1.AssemblyInfoInputs.cache
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\obj\Debug\net7.0\MiniProject1.AssemblyInfo.cs
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\obj\Debug\net7.0\MiniProject1.csproj.CoreCompileInputs.cache
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\obj\Debug\net7.0\MiniProject1.dll
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\obj\Debug\net7.0\refint\MiniProject1.dll
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\obj\Debug\net7.0\MiniProject1.pdb
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\obj\Debug\net7.0\MiniProject1.genruntimeconfig.cache
+C:\Users\jorda\source\repos\CSHARP\ACCCSCLUB\MiniProject1\obj\Debug\net7.0\ref\MiniProject1.dll
